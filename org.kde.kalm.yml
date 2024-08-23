@@ -35,8 +35,8 @@ modules:
     buildsystem: cmake-ninja
     sources:
       - type: archive
-        url: https://download.kde.org/stable/release-service/24.05.2/src/kalm-24.05.2.tar.xz
-        sha256: b15c8bd4ad19070c3f33275db85dece5d0364a57504acd066c8b6099b6e2617f
+        url: https://download.kde.org/stable/release-service/24.08.0/src/kalm-24.08.0.tar.xz
+        sha256: c75981e5c01573b3a1cf2208b62678cc797e9b19216a692d235dbce09f871c36
         x-checker-data:
           type: anitya
           project-id: 8763
