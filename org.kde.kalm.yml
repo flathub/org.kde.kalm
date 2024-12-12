@@ -24,8 +24,8 @@ modules:
       - -DBUILD_TESTING=OFF
     sources:
       - type: archive
-        url: https://download.kde.org/stable/kirigami-addons/kirigami-addons-1.5.0.tar.xz
-        sha256: f9dfd191022b633ea3348f84730d7158a159dfe49668dba0a9e9bd678ac44e54
+        url: https://download.kde.org/stable/kirigami-addons/kirigami-addons-1.6.0.tar.xz
+        sha256: 376dae6fc5acac7d0905ce9fef3211be0705c6e2df52bb80dfde1eaa20fe1bfa
         x-checker-data:
           type: anitya
           project-id: 242933
@@ -35,8 +35,8 @@ modules:
     buildsystem: cmake-ninja
     sources:
       - type: archive
-        url: https://download.kde.org/stable/release-service/24.08.3/src/kalm-24.08.3.tar.xz
-        sha256: e1c43ff293e11f92e4b7796e4a8fa2a82c07b514a603247855ec0c93b7591515
+        url: https://download.kde.org/stable/release-service/24.12.0/src/kalm-24.12.0.tar.xz
+        sha256: 8359feda0093b1311cc8d044576701eb9839c50c02433b9a7be2b947374aab2c
         x-checker-data:
           type: anitya
           project-id: 8763
