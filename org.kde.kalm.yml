@@ -23,8 +23,8 @@ modules:
       - -DBUILD_TESTING=OFF
     sources:
       - type: archive
-        url: https://download.kde.org/stable/release-service/26.08.1/src/kalm-26.08.1.tar.xz
-        sha256: e5789d2e45f685f504cc5eedf8f6e7667f15dcd2b586e6801ba4921a58b0c5da
+        url: https://download.kde.org/stable/release-service/26.08.2/src/kalm-26.08.2.tar.xz
+        sha256: aeca52aa8e5c094df222dd29ac2b76711317b5f4a724a7255f7b1f51a3c5799d
         x-checker-data:
           type: anitya
           project-id: 8763
